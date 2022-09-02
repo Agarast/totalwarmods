@@ -1,0 +1,23 @@
+{
+    "Lua.workspace.library": [
+        "C:/Files/Mods/TotalWar/Tools/Warhammer_3/tw_autogen/output/wh3/global/",
+        "C:/Files/Mods/TotalWar/Tools/Warhammer_3/tw_autogen/output/wh3/campaign/",
+        "C:/Files/Mods/TotalWar/Tools/Warhammer_3/tw_autogen/output/wh3/frontend/",
+        "C:/Files/Mods/TotalWar/Tools/Warhammer_3/tw_autogen/output/wh3/battle/"
+    ],
+    "Lua.runtime.version": "Lua 5.1",
+    "Lua.completion.autoRequire": false,
+    "Lua.workspace.preloadFileSize": 1500,
+    "Lua.workspace.ignoreSubmodules": false,
+    "Lua.diagnostics.workspaceDelay": 500,
+    "Lua.diagnostics.workspaceRate": 40,
+    "Lua.diagnostics.disable": [
+        "lowercase-global",
+        "trailing-space"
+    ],
+    "Lua.hint.setType": true,
+    "Lua.workspace.ignoreDir": [
+        ".vscode",
+        ".git"
+    ]
+}
